@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UYT'
+TIME_ZONE = 'America/Montevideo'
 
 USE_I18N = True
 
